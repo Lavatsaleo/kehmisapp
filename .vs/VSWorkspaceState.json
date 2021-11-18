@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.idea",
     "\\app",
     "\\app\\Console",
     "\\app\\Http"
   ],
-  "SelectedNode": "\\server.php",
   "PreviewInSolutionExplorer": false
 }
