@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Console",
-    "\\app\\Http"
+    "\\resources",
+    "\\resources\\lang",
+    "\\resources\\lang\\en",
+    "\\resources\\views"
   ],
   "PreviewInSolutionExplorer": false
 }

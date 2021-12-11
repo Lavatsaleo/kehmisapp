@@ -91,6 +91,22 @@
                             </div>
                             <!-- Card -->
 
+                            <div class="card mb-3">
+                                <!-- Card content -->
+                                <div class="card-body">
+                                    <!-- Title -->
+                                    <h4 class="card-title">MLAB</h4>
+                                    <!-- Text -->
+                                    <p class="card-text">Use this for training and demo</p>
+                                    <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+                                    <a class="btn btn-outline-success btn-md stretched-link" target="_blank" href="https://data.kenyahmis.org:9000/openmrs"><i class="fa fa-check-circle" aria-hidden="true"></i> MLAB</a>
+
+                                </div>
+                                <!-- Card content -->
+
+                            </div>
+                            <!-- Card -->
+
                             <!-- Card -->
                             <div class="card mb-3">
 
