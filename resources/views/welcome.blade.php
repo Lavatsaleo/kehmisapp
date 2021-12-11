@@ -90,6 +90,24 @@
 
                             </div>
                             <!-- Card -->
+                             <!-- Card -->
+                            <div class="card mb-3">
+
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                    <!-- Title -->
+                                    <h4 class="card-title">Ushauri Online </h4>
+                                    <!-- Text -->
+                                    <p class="card-text">Use this for training and demo</p>
+                                    <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+                                    <a class="btn btn-outline-success btn-md stretched-link" target="_blank" href="https://ushauri.nascop.org/login"><i class="fa fa-check-circle" aria-hidden="true"></i> ushauri</a>
+
+                                </div>
+                                <!-- Card content -->
+
+                            </div>
+                            <!-- Card -->
 
                             <div class="card mb-3">
                                 <!-- Card content -->
